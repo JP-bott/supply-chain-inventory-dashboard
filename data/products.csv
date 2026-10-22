@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Supplier_ID,Unit_Cost,Selling_Price,Reorder_Point,Safety_Stock,Current_Stock,Warehouse
+PRD-001,Poly Bag - Heavy-Duty,Packaging Materials,SUP-01,5.18,7.59,15,5,25,Riverside DC
+PRD-002,Foam Insert - Heavy-Duty,Packaging Materials,SUP-02,0.79,1.24,17,9,41,Southport DC
+PRD-003,Foam Insert - Large,Packaging Materials,SUP-01,0.53,0.67,42,19,93,Northgate DC
+PRD-004,Foam Insert - Medium,Packaging Materials,SUP-02,0.94,1.42,15,5,65,Northgate DC
+PRD-005,Corrugated Shipping Box - Large,Packaging Materials,SUP-03,0.32,0.41,88,53,298,Northgate DC
+PRD-006,Kraft Mailer - Small,Packaging Materials,SUP-03,1.94,2.87,15,7,24,Southport DC
+PRD-007,Pallet Strapping - Small,Packaging Materials,SUP-02,4.2,6.28,25,13,36,Southport DC
+PRD-008,Pallet Strapping - Heavy-Duty,Packaging Materials,SUP-01,1.3,1.72,26,12,74,Southport DC
+PRD-009,Stretch Wrap Film - Small,Packaging Materials,SUP-03,0.86,1.35,57,34,211,Riverside DC
+PRD-010,Packing Tape - Large,Packaging Materials,SUP-01,0.44,0.55,48,22,149,Riverside DC
+PRD-011,Bubble Wrap Roll - Small,Packaging Materials,SUP-01,9.37,14.26,15,7,6,Northgate DC
+PRD-012,Poly Bag - Large,Packaging Materials,SUP-03,0.45,0.69,15,5,94,Riverside DC
+PRD-013,Stretch Wrap Film - Medium,Packaging Materials,SUP-02,2.81,4.35,15,8,51,Northgate DC
+PRD-014,Poly Bag - Small,Packaging Materials,SUP-01,1.44,2.1,15,5,10,Northgate DC
+PRD-015,Stretch Wrap Film - Large,Packaging Materials,SUP-03,0.72,1.08,15,5,45,Northgate DC
+PRD-016,Foam Insert - Small,Packaging Materials,SUP-01,2.69,3.39,15,5,80,Northgate DC
+PRD-017,Stretch Wrap Film - Heavy-Duty,Packaging Materials,SUP-02,8.97,11.36,15,5,35,Northgate DC
+PRD-018,Packing Tape - Small,Packaging Materials,SUP-02,0.32,0.39,57,30,75,Riverside DC
+PRD-019,Packing Tape - Medium,Packaging Materials,SUP-02,3.7,5.02,15,8,30,Southport DC
+PRD-020,Pallet Strapping - Large,Packaging Materials,SUP-01,6.93,8.44,27,12,65,Northgate DC
+PRD-021,Packing Tape - Heavy-Duty,Packaging Materials,SUP-03,2.47,3.38,34,20,156,Riverside DC
+PRD-022,Kraft Mailer - Large,Packaging Materials,SUP-03,0.44,0.67,93,56,294,Northgate DC
+PRD-023,Corrugated Shipping Box - Small,Packaging Materials,SUP-03,6.74,10.52,15,5,63,Southport DC
+PRD-024,Poly Bag - Medium,Packaging Materials,SUP-01,3.21,4.85,46,21,100,Riverside DC
+PRD-025,Kraft Mailer - Medium,Packaging Materials,SUP-02,7.1,9.83,15,7,0,Northgate DC
+PRD-026,Bubble Wrap Roll - Medium,Packaging Materials,SUP-03,0.5,0.7,20,12,113,Northgate DC
+PRD-027,Bubble Wrap Roll - Heavy-Duty,Packaging Materials,SUP-02,1.16,1.54,25,13,1075,Northgate DC
+PRD-028,Kraft Mailer - Heavy-Duty,Packaging Materials,SUP-01,9.94,15.57,15,5,55,Riverside DC
+PRD-029,Ball Bearing - Heavy-Duty,Industrial Supplies,SUP-06,56.61,83.13,15,5,30,Southport DC
+PRD-030,Gasket Kit - Compact,Industrial Supplies,SUP-06,6.43,8.65,15,5,24,Northgate DC
+PRD-031,Hex Bolt Set - Stainless,Industrial Supplies,SUP-04,113.85,156.56,15,5,20,Riverside DC
+PRD-032,Steel Bracket - Heavy-Duty,Industrial Supplies,SUP-06,113.85,172.15,15,5,12,Southport DC
+PRD-033,Drive Chain - Standard,Industrial Supplies,SUP-05,44.35,70.09,20,10,0,Riverside DC
+PRD-034,Hydraulic Hose - Stainless,Industrial Supplies,SUP-05,3.39,4.87,15,5,35,Riverside DC
+PRD-035,Conveyor Belt Segment - Standard,Industrial Supplies,SUP-05,70.58,93.03,15,5,27,Northgate DC
+PRD-036,Hex Bolt Set - Heavy-Duty,Industrial Supplies,SUP-06,105.48,159.54,23,8,33,Southport DC
+PRD-037,Gasket Kit - Stainless,Industrial Supplies,SUP-05,6.81,10.45,44,22,123,Riverside DC
+PRD-038,Ball Bearing - Stainless,Industrial Supplies,SUP-04,33.12,40.94,15,5,48,Northgate DC
+PRD-039,Conveyor Belt Segment - Stainless,Industrial Supplies,SUP-04,3.71,5.6,56,26,320,Riverside DC
+PRD-040,Pipe Fitting - Stainless,Industrial Supplies,SUP-04,2.34,2.81,54,25,132,Southport DC
+PRD-041,Conveyor Belt Segment - Heavy-Duty,Industrial Supplies,SUP-05,5.6,8.62,42,21,35,Southport DC
+PRD-042,Ball Bearing - Compact,Industrial Supplies,SUP-06,56.08,82.96,15,5,59,Northgate DC
+PRD-043,Hex Bolt Set - Compact,Industrial Supplies,SUP-06,3.43,4.81,15,5,54,Southport DC
+PRD-044,Drive Chain - Stainless,Industrial Supplies,SUP-04,3.91,5.84,34,16,0,Riverside DC
+PRD-045,Drive Chain - Compact,Industrial Supplies,SUP-04,137.71,198.94,15,6,29,Northgate DC
+PRD-046,Pipe Fitting - Standard,Industrial Supplies,SUP-06,90.96,134.97,15,5,5,Northgate DC
+PRD-047,Hydraulic Hose - Standard,Industrial Supplies,SUP-05,137.61,190.37,15,5,63,Riverside DC
+PRD-048,Hex Bolt Set - Standard,Industrial Supplies,SUP-05,3.74,5.9,16,8,38,Riverside DC
+PRD-049,Gasket Kit - Heavy-Duty,Industrial Supplies,SUP-05,32.99,52.0,18,9,34,Riverside DC
+PRD-050,Hydraulic Hose - Heavy-Duty,Industrial Supplies,SUP-04,15.49,19.33,22,10,0,Northgate DC
+PRD-051,Hydraulic Hose - Compact,Industrial Supplies,SUP-04,12.69,18.33,15,5,28,Riverside DC
+PRD-052,Pipe Fitting - Compact,Industrial Supplies,SUP-05,5.12,7.35,15,5,31,Riverside DC
+PRD-053,Gasket Kit - Standard,Industrial Supplies,SUP-04,15.49,19.99,15,5,23,Riverside DC
+PRD-054,Steel Bracket - Stainless,Industrial Supplies,SUP-06,32.81,47.93,15,5,21,Riverside DC
+PRD-055,Sticky Notes Pack - Standard,Office Supplies,SUP-08,6.14,7.39,25,17,59,Northgate DC
+PRD-056,Whiteboard Markers - Premium,Office Supplies,SUP-08,0.96,1.47,15,5,70,Southport DC
+PRD-057,Stapler - Standard,Office Supplies,SUP-07,24.07,30.25,15,5,37,Northgate DC
+PRD-058,Whiteboard Markers - Eco,Office Supplies,SUP-08,9.6,13.19,15,5,36,Northgate DC
+PRD-059,Stapler - Premium,Office Supplies,SUP-07,17.38,21.17,15,5,31,Riverside DC
+PRD-060,Sticky Notes Pack - Premium,Office Supplies,SUP-08,4.96,6.93,21,14,102,Southport DC
+PRD-061,Whiteboard Markers - Standard,Office Supplies,SUP-07,6.06,8.85,24,8,38,Northgate DC
+PRD-062,Filing Folders Pack - Value Pack,Office Supplies,SUP-08,2.1,2.97,18,12,91,Riverside DC
+PRD-063,Binder Clips Box - Value Pack,Office Supplies,SUP-07,10.11,15.58,22,7,28,Riverside DC
+PRD-064,Ballpoint Pens Box - Premium,Office Supplies,SUP-07,13.92,18.6,15,5,12,Northgate DC
+PRD-065,Copy Paper Ream - Premium,Office Supplies,SUP-08,2.38,3.73,15,7,0,Northgate DC
+PRD-066,Filing Folders Pack - Premium,Office Supplies,SUP-08,1.06,1.28,15,5,55,Northgate DC
+PRD-067,Ballpoint Pens Box - Eco,Office Supplies,SUP-07,5.2,6.26,24,8,53,Riverside DC
+PRD-068,Binder Clips Box - Premium,Office Supplies,SUP-07,23.28,33.71,15,5,98,Southport DC
+PRD-069,Stapler - Value Pack,Office Supplies,SUP-08,8.38,13.28,15,5,44,Northgate DC
+PRD-070,Toner Cartridge - Standard,Office Supplies,SUP-08,8.78,12.08,15,6,65,Southport DC
+PRD-071,Toner Cartridge - Premium,Office Supplies,SUP-07,23.54,30.96,15,5,5,Northgate DC
+PRD-072,Filing Folders Pack - Standard,Office Supplies,SUP-08,0.81,0.99,15,5,41,Southport DC
+PRD-073,Binder Clips Box - Eco,Office Supplies,SUP-08,3.08,4.9,15,10,67,Northgate DC
+PRD-074,Ballpoint Pens Box - Standard,Office Supplies,SUP-07,4.39,6.68,15,5,44,Northgate DC
+PRD-075,Ballpoint Pens Box - Value Pack,Office Supplies,SUP-07,2.15,2.62,83,27,168,Riverside DC
+PRD-076,Copy Paper Ream - Value Pack,Office Supplies,SUP-08,10.32,15.96,15,5,50,Northgate DC
+PRD-077,Sticky Notes Pack - Eco,Office Supplies,SUP-07,1.25,1.81,15,5,58,Riverside DC
+PRD-078,Sticky Notes Pack - Value Pack,Office Supplies,SUP-07,7.07,8.57,25,8,70,Riverside DC
+PRD-079,Power Adapter - Standard,Electronics Accessories,SUP-09,63.67,89.89,15,5,45,Riverside DC
+PRD-080,Surge Protector - Pro,Electronics Accessories,SUP-10,6.25,8.1,18,5,46,Southport DC
+PRD-081,Webcam - Basic,Electronics Accessories,SUP-11,5.88,8.38,15,5,55,Riverside DC
+PRD-082,HDMI Cable - Standard,Electronics Accessories,SUP-11,12.26,19.59,15,6,80,Southport DC
+PRD-083,Webcam - Compact,Electronics Accessories,SUP-09,40.09,51.08,15,5,12,Riverside DC
+PRD-084,USB-C Cable - Pro,Electronics Accessories,SUP-09,75.93,106.69,15,5,29,Southport DC
+PRD-085,HDMI Cable - Pro,Electronics Accessories,SUP-10,2.96,3.6,20,5,30,Riverside DC
+PRD-086,Webcam - Standard,Electronics Accessories,SUP-09,14.26,18.89,31,8,0,Northgate DC
+PRD-087,Wireless Mouse - Standard,Electronics Accessories,SUP-11,2.52,3.73,32,19,24,Northgate DC
+PRD-088,Cable Organizer - Pro,Electronics Accessories,SUP-10,9.77,11.73,68,18,206,Northgate DC
+PRD-089,Webcam - Pro,Electronics Accessories,SUP-09,13.84,19.32,18,5,49,Southport DC
+PRD-090,Cable Organizer - Standard,Electronics Accessories,SUP-10,49.17,64.12,15,5,22,Riverside DC
+PRD-091,Wireless Mouse - Pro,Electronics Accessories,SUP-11,26.95,34.8,15,5,25,Northgate DC
+PRD-092,Power Adapter - Basic,Electronics Accessories,SUP-11,11.56,17.16,15,8,60,Northgate DC
+PRD-093,HDMI Cable - Basic,Electronics Accessories,SUP-10,66.08,79.54,18,5,0,Northgate DC
+PRD-094,Wireless Mouse - Compact,Electronics Accessories,SUP-09,21.2,27.49,17,5,35,Southport DC
+PRD-095,Power Adapter - Pro,Electronics Accessories,SUP-10,2.04,3.14,26,7,49,Southport DC
+PRD-096,Cable Organizer - Basic,Electronics Accessories,SUP-10,51.92,67.58,15,5,44,Riverside DC
+PRD-097,Wireless Mouse - Basic,Electronics Accessories,SUP-10,84.89,114.14,15,5,57,Southport DC
+PRD-098,Keyboard - Compact,Electronics Accessories,SUP-09,19.69,25.33,15,5,38,Northgate DC
+PRD-099,Surge Protector - Compact,Electronics Accessories,SUP-11,2.24,3.0,28,17,52,Riverside DC
+PRD-100,Power Adapter - Compact,Electronics Accessories,SUP-09,29.62,44.29,18,5,25,Riverside DC
+PRD-101,Surge Protector - Standard,Electronics Accessories,SUP-11,3.23,4.06,15,6,22,Riverside DC
+PRD-102,Keyboard - Standard,Electronics Accessories,SUP-09,87.23,104.82,35,9,111,Riverside DC
+PRD-103,Surge Protector - Basic,Electronics Accessories,SUP-11,3.24,5.05,15,5,0,Riverside DC
+PRD-104,Safety Gloves - Small,Safety Equipment,SUP-13,60.04,77.14,15,5,29,Southport DC
+PRD-105,First Aid Kit - Small,Safety Equipment,SUP-12,10.41,14.64,15,5,59,Southport DC
+PRD-106,High-Visibility Vest - Medium,Safety Equipment,SUP-12,19.49,24.2,15,5,56,Southport DC
+PRD-107,Safety Gloves - Large,Safety Equipment,SUP-12,4.16,5.33,15,5,92,Southport DC
+PRD-108,Safety Gloves - Universal,Safety Equipment,SUP-12,10.35,15.4,15,5,50,Northgate DC
+PRD-109,Ear Protection - Medium,Safety Equipment,SUP-13,22.14,31.71,15,5,39,Southport DC
+PRD-110,First Aid Kit - Large,Safety Equipment,SUP-12,13.93,17.81,15,5,21,Northgate DC
+PRD-111,Steel-Toe Boots - Medium,Safety Equipment,SUP-13,5.12,7.55,26,9,57,Northgate DC
+PRD-112,High-Visibility Vest - Small,Safety Equipment,SUP-13,4.15,6.23,15,5,30,Northgate DC
+PRD-113,First Aid Kit - Universal,Safety Equipment,SUP-13,5.52,7.78,15,5,47,Northgate DC
+PRD-114,Steel-Toe Boots - Small,Safety Equipment,SUP-12,14.58,23.09,15,5,26,Northgate DC
+PRD-115,Steel-Toe Boots - Large,Safety Equipment,SUP-13,6.87,9.05,15,5,47,Southport DC
+PRD-116,Safety Gloves - Medium,Safety Equipment,SUP-13,76.05,121.14,15,5,52,Northgate DC
+PRD-117,Steel-Toe Boots - Universal,Safety Equipment,SUP-13,8.15,11.58,54,19,111,Riverside DC
+PRD-118,Respirator Mask - Medium,Safety Equipment,SUP-12,17.8,22.54,15,5,35,Southport DC
+PRD-119,Ear Protection - Small,Safety Equipment,SUP-12,20.43,30.52,15,5,0,Riverside DC
+PRD-120,Hard Hat - Medium,Safety Equipment,SUP-13,36.38,54.9,34,12,60,Northgate DC
+PRD-121,Hard Hat - Large,Safety Equipment,SUP-13,56.88,70.54,15,5,27,Northgate DC
+PRD-122,Safety Goggles - Large,Safety Equipment,SUP-12,11.66,16.09,15,6,39,Southport DC
+PRD-123,Ear Protection - Universal,Safety Equipment,SUP-12,53.0,70.79,15,5,23,Northgate DC
+PRD-124,Hard Hat - Small,Safety Equipment,SUP-13,5.09,8.02,15,5,0,Riverside DC
+PRD-125,Hard Hat - Universal,Safety Equipment,SUP-12,15.02,21.21,15,5,49,Northgate DC
+PRD-126,All-Purpose Cleaner - Bulk Pack,Cleaning Supplies,SUP-14,1.58,1.99,35,9,54,Southport DC
+PRD-127,All-Purpose Cleaner - Standard,Cleaning Supplies,SUP-16,3.11,4.64,20,9,79,Riverside DC
+PRD-128,Microfiber Cloths - Bulk Pack,Cleaning Supplies,SUP-15,5.37,8.48,15,5,25,Riverside DC
+PRD-129,Floor Cleaner - Value Pack,Cleaning Supplies,SUP-16,20.24,24.61,15,6,9,Riverside DC
+PRD-130,Disinfectant Wipes - Bulk Pack,Cleaning Supplies,SUP-15,34.0,48.03,15,5,17,Southport DC
+PRD-131,Trash Bags - Commercial Grade,Cleaning Supplies,SUP-14,3.68,5.5,30,8,52,Riverside DC
+PRD-132,Glass Cleaner - Commercial Grade,Cleaning Supplies,SUP-14,6.11,9.55,27,7,67,Northgate DC
+PRD-133,Microfiber Cloths - Value Pack,Cleaning Supplies,SUP-15,4.27,5.88,32,12,141,Riverside DC
+PRD-134,Floor Cleaner - Commercial Grade,Cleaning Supplies,SUP-14,10.28,15.06,45,12,111,Northgate DC
+PRD-135,Hand Soap Refill - Standard,Cleaning Supplies,SUP-15,15.9,24.55,15,5,25,Northgate DC
+PRD-136,Mop Head - Commercial Grade,Cleaning Supplies,SUP-16,2.66,3.34,21,10,50,Southport DC
+PRD-137,Trash Bags - Standard,Cleaning Supplies,SUP-14,2.05,2.9,15,5,55,Riverside DC
+PRD-138,Mop Head - Value Pack,Cleaning Supplies,SUP-15,2.48,3.6,31,12,50,Northgate DC
+PRD-139,Glass Cleaner - Bulk Pack,Cleaning Supplies,SUP-16,11.44,13.83,15,7,18,Riverside DC
+PRD-140,All-Purpose Cleaner - Commercial Grade,Cleaning Supplies,SUP-16,4.85,7.64,15,5,39,Riverside DC
+PRD-141,Disinfectant Wipes - Standard,Cleaning Supplies,SUP-14,5.71,8.3,19,5,38,Southport DC
+PRD-142,Floor Cleaner - Bulk Pack,Cleaning Supplies,SUP-14,26.7,41.05,15,5,54,Southport DC
+PRD-143,Trash Bags - Bulk Pack,Cleaning Supplies,SUP-15,15.05,20.95,15,5,32,Riverside DC
+PRD-144,Mop Head - Bulk Pack,Cleaning Supplies,SUP-15,2.8,3.65,20,8,60,Northgate DC
+PRD-145,Glass Cleaner - Value Pack,Cleaning Supplies,SUP-16,18.2,28.1,15,7,33,Northgate DC
+PRD-146,Microfiber Cloths - Commercial Grade,Cleaning Supplies,SUP-16,17.04,26.17,30,14,65,Northgate DC
+PRD-147,Glass Cleaner - Standard,Cleaning Supplies,SUP-14,4.0,6.4,53,14,110,Riverside DC
+PRD-148,Trash Bags - Value Pack,Cleaning Supplies,SUP-16,9.05,14.24,15,5,43,Northgate DC
+PRD-149,All-Purpose Cleaner - Value Pack,Cleaning Supplies,SUP-14,16.63,21.76,15,5,32,Northgate DC
+PRD-150,Disinfectant Wipes - Value Pack,Cleaning Supplies,SUP-15,19.3,24.52,15,5,43,Riverside DC
+PRD-151,Cordless Drill - Professional,Tools & Hardware,SUP-18,8.84,13.27,15,7,55,Riverside DC
+PRD-152,Utility Knife - Heavy-Duty,Tools & Hardware,SUP-18,14.07,18.12,29,15,78,Northgate DC
+PRD-153,Screwdriver Set - Heavy-Duty,Tools & Hardware,SUP-17,4.3,5.46,68,23,237,Northgate DC
+PRD-154,Socket Wrench Set - Heavy-Duty,Tools & Hardware,SUP-19,192.09,241.05,15,5,24,Northgate DC
+PRD-155,Cordless Drill - Compact,Tools & Hardware,SUP-17,118.36,188.22,15,5,65,Northgate DC
+PRD-156,Socket Wrench Set - Standard,Tools & Hardware,SUP-19,47.18,62.07,15,5,39,Riverside DC
+PRD-157,Work Light - Heavy-Duty,Tools & Hardware,SUP-19,97.35,144.49,16,5,27,Riverside DC
+PRD-158,Screwdriver Set - Compact,Tools & Hardware,SUP-18,23.11,30.14,15,5,28,Southport DC
+PRD-159,Adjustable Wrench - Heavy-Duty,Tools & Hardware,SUP-18,31.68,42.9,15,5,88,Northgate DC
+PRD-160,Socket Wrench Set - Professional,Tools & Hardware,SUP-18,32.06,47.15,15,6,25,Northgate DC
+PRD-161,Screwdriver Set - Professional,Tools & Hardware,SUP-18,128.42,187.3,15,7,55,Riverside DC
+PRD-162,Work Light - Compact,Tools & Hardware,SUP-19,22.15,34.87,29,8,29,Riverside DC
+PRD-163,Utility Knife - Standard,Tools & Hardware,SUP-17,6.82,10.04,32,11,62,Northgate DC
+PRD-164,Socket Wrench Set - Compact,Tools & Hardware,SUP-19,17.71,22.5,53,15,119,Northgate DC
+PRD-165,Cordless Drill - Standard,Tools & Hardware,SUP-17,13.65,16.68,15,5,60,Riverside DC
+PRD-166,Measuring Tape - Standard,Tools & Hardware,SUP-19,7.11,11.06,15,5,58,Northgate DC
+PRD-167,Work Light - Professional,Tools & Hardware,SUP-17,4.87,7.05,67,23,178,Southport DC
+PRD-168,Claw Hammer - Compact,Tools & Hardware,SUP-18,93.84,132.35,15,5,59,Riverside DC
+PRD-169,Claw Hammer - Professional,Tools & Hardware,SUP-17,11.69,18.46,18,6,41,Northgate DC
+PRD-170,Work Light - Standard,Tools & Hardware,SUP-19,182.84,255.88,15,5,20,Northgate DC
+PRD-171,Claw Hammer - Heavy-Duty,Tools & Hardware,SUP-19,15.93,22.84,37,10,91,Northgate DC
+PRD-172,Claw Hammer - Standard,Tools & Hardware,SUP-17,4.63,7.16,18,6,41,Riverside DC
+PRD-173,Adjustable Wrench - Standard,Tools & Hardware,SUP-17,18.37,26.7,15,5,102,Northgate DC
+PRD-174,Measuring Tape - Professional,Tools & Hardware,SUP-18,11.96,16.51,15,5,27,Riverside DC
+PRD-175,Measuring Tape - Compact,Tools & Hardware,SUP-17,30.78,40.88,15,5,41,Northgate DC
+PRD-176,Adjustable Wrench - Professional,Tools & Hardware,SUP-18,6.03,8.98,15,5,20,Riverside DC
+PRD-177,Disposable Cutlery Set - Large,Food Service Supplies,SUP-21,0.32,0.49,61,19,348,Southport DC
+PRD-178,Cup Lids - Medium,Food Service Supplies,SUP-21,3.28,4.49,24,7,59,Northgate DC
+PRD-179,Paper Napkins - Large,Food Service Supplies,SUP-20,7.77,11.93,15,5,33,Southport DC
+PRD-180,Food Wrap Film - Small,Food Service Supplies,SUP-20,0.22,0.31,54,23,313,Northgate DC
+PRD-181,Cup Lids - Bulk Pack,Food Service Supplies,SUP-21,4.34,5.86,15,5,34,Riverside DC
+PRD-182,Paper Napkins - Bulk Pack,Food Service Supplies,SUP-20,2.22,2.85,42,18,30,Northgate DC
+PRD-183,Cup Lids - Small,Food Service Supplies,SUP-21,0.31,0.49,74,23,236,Southport DC
+PRD-184,Paper Cups - Bulk Pack,Food Service Supplies,SUP-21,0.29,0.42,15,5,31,Riverside DC
+PRD-185,Paper Napkins - Small,Food Service Supplies,SUP-20,1.46,1.77,34,15,46,Southport DC
+PRD-186,Aluminium Foil Pan - Small,Food Service Supplies,SUP-20,0.24,0.36,61,26,114,Northgate DC
+PRD-187,Aluminium Foil Pan - Bulk Pack,Food Service Supplies,SUP-21,14.89,22.86,26,8,42,Southport DC
+PRD-188,Aluminium Foil Pan - Medium,Food Service Supplies,SUP-21,0.41,0.58,15,5,58,Northgate DC
+PRD-189,Food Wrap Film - Medium,Food Service Supplies,SUP-20,1.55,1.9,15,5,90,Northgate DC
+PRD-190,Takeout Container - Medium,Food Service Supplies,SUP-20,0.75,1.19,105,45,168,Riverside DC
+PRD-191,Paper Napkins - Medium,Food Service Supplies,SUP-20,9.14,14.54,15,5,38,Northgate DC
+PRD-192,Disposable Cutlery Set - Bulk Pack,Food Service Supplies,SUP-20,7.81,11.08,18,8,31,Southport DC
+PRD-193,Paper Straws - Large,Food Service Supplies,SUP-20,5.14,7.16,15,6,0,Northgate DC
+PRD-194,Takeout Container - Bulk Pack,Food Service Supplies,SUP-21,1.21,1.5,117,36,176,Riverside DC
+PRD-195,Paper Cups - Medium,Food Service Supplies,SUP-20,14.53,20.99,21,9,43,Northgate DC
+PRD-196,Paper Cups - Large,Food Service Supplies,SUP-21,17.89,23.03,19,6,34,Southport DC
+PRD-197,Paper Cups - Small,Food Service Supplies,SUP-21,0.59,0.72,79,24,192,Northgate DC
+PRD-198,Cup Lids - Large,Food Service Supplies,SUP-20,2.74,4.29,21,9,36,Northgate DC
+PRD-199,Takeout Container - Large,Food Service Supplies,SUP-21,7.98,11.55,15,5,47,Northgate DC
+PRD-200,Aluminium Foil Pan - Large,Food Service Supplies,SUP-21,0.3,0.39,81,25,55,Northgate DC

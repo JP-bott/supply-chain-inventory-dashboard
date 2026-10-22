@@ -1,0 +1,22 @@
+Supplier_ID,Supplier_Name,Region,Supplier_Category,Average_Lead_Time_Days,Contact_Status
+SUP-01,Pinecrest Packaging,Latin America,Packaging Materials,14,Active
+SUP-02,BlueHarbor Containers,North America,Packaging Materials,11,On Hold
+SUP-03,Alder & Finch Paperworks,North America,Packaging Materials,8,Active
+SUP-04,Ironvale Industrial,Europe,Industrial Supplies,14,Active
+SUP-05,Granite Ridge Supply,North America,Industrial Supplies,12,Active
+SUP-06,Kestrel Fasteners,Europe,Industrial Supplies,22,Active
+SUP-07,Larkspur Office Goods,Asia Pacific,Office Supplies,25,Active
+SUP-08,Summit Paper & Stationery,North America,Office Supplies,6,Active
+SUP-09,Voltline Components,Asia Pacific,Electronics Accessories,33,Active
+SUP-10,Cobalt Peak Electronics,Asia Pacific,Electronics Accessories,33,Active
+SUP-11,Nimbus Cable Co.,North America,Electronics Accessories,8,Active
+SUP-12,Redwood Safety Gear,North America,Safety Equipment,11,Active
+SUP-13,Beacon Protective Wear,Asia Pacific,Safety Equipment,22,Active
+SUP-14,Clearwater Chemicals,Asia Pacific,Cleaning Supplies,33,Active
+SUP-15,Fresh Meadow Hygiene,Europe,Cleaning Supplies,19,Active
+SUP-16,Sparkwell Supply,Latin America,Cleaning Supplies,14,Active
+SUP-17,Forge & Anvil Tools,Europe,Tools & Hardware,23,On Hold
+SUP-18,Ridgeback Hardware,North America,Tools & Hardware,11,Active
+SUP-19,Tallgrass Tool Works,Asia Pacific,Tools & Hardware,31,Active
+SUP-20,Harvest Table Disposables,Europe,Food Service Supplies,16,Active
+SUP-21,Copperpot Foodservice,Asia Pacific,Food Service Supplies,27,Active
