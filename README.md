@@ -177,4 +177,4 @@ assets/                    logo (SVG and PNG)
 
 ## License
 
-MIT, see `LICENSE`. Replace "Your Name" in that file before publishing.
+MIT, see `LICENSE`.
